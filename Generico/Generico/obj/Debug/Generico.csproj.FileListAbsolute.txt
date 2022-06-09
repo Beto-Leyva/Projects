@@ -1,0 +1,12 @@
+C:\Users\Ing_A\Documents\Generico\Generico\bin\Debug\Generico.exe.config
+C:\Users\Ing_A\Documents\Generico\Generico\bin\Debug\Generico.exe
+C:\Users\Ing_A\Documents\Generico\Generico\bin\Debug\Generico.pdb
+C:\Users\Ing_A\Documents\Generico\Generico\obj\Debug\Generico.Form1.resources
+C:\Users\Ing_A\Documents\Generico\Generico\obj\Debug\Generico.ItemSelect.resources
+C:\Users\Ing_A\Documents\Generico\Generico\obj\Debug\Generico.Properties.Resources.resources
+C:\Users\Ing_A\Documents\Generico\Generico\obj\Debug\Generico.csproj.GenerateResource.cache
+C:\Users\Ing_A\Documents\Generico\Generico\obj\Debug\Generico.csproj.CoreCompileInputs.cache
+C:\Users\Ing_A\Documents\Generico\Generico\obj\Debug\Generico.exe
+C:\Users\Ing_A\Documents\Generico\Generico\obj\Debug\Generico.pdb
+C:\Users\Ing_A\Documents\Generico\Generico\obj\Debug\Generico.csprojAssemblyReference.cache
+C:\Users\Ing_A\Documents\Generico\Generico\obj\Debug\Generico.Consultas.resources
